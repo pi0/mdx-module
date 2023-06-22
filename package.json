@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@mdx-js/vue-loader": "latest",
-    "babel-loader": "^8.1.0"
+    "babel-loader": "^8.3.0"
   },
   "devDependencies": {
     "@babel/core": "latest",
@@ -30,7 +30,7 @@
     "@commitlint/config-conventional": "latest",
     "@nuxtjs/eslint-config": "latest",
     "@nuxtjs/module-test-utils": "latest",
-    "@vue/babel-preset-jsx": "^1.1.2",
+    "@vue/babel-preset-jsx": "^1.4.0",
     "babel-eslint": "latest",
     "babel-jest": "latest",
     "eslint": "latest",
